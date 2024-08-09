@@ -7,4 +7,29 @@ header{
     background-color: bisque;
     color: #1d3506;
     padding: 10px 20px 20px 10px;
+    margin: 20px 10px;
+    text-align: center;
+    border:10px solid red;
+}
+
+้h1 {
+    margin: 0;
+}
+
+section {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px dotted #ccc;
+}
+
+button{
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    cursor: pointer;
+
+}
+
+.txt-center{
+    text-align: center;
 }
